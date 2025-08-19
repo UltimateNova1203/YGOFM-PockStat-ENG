@@ -1,0 +1,124 @@
+ROM Images:
+1bpp Reverse-linear Images
+1 Dimensions for Font
+2 Dimensions for UI
+
+Main Menu:
+メモ (Memo) [Me mo]
+つうしん (Comm/IR) [Tsu u shi n]
+デッキ (Deck) [Dekki]
+かばん (Bag/Chest) [Kaban]
+
+0200345C + 0104 = 02003560 (JPN)
+02007EFC - 0104 = 02008000 (ENG) [02002A7C = FC 7E 00 02]
+ブルーアイズ・ホワイトドラゴン (15)
+
+ASCII:
+00 NULL (End Terminator)
+FA BEGIN
+2C 　 ,
+2D ” -
+2E ° .
+2F U # (ASCII /)
+41 ア A
+42 イ B
+43 ウ C
+44 エ D
+45 オ E
+46 カ F
+47 キ G
+48 ク H
+49 ケ I
+4A コ J
+4B サ K
+4C シ L
+4D ス M
+4E セ N
+4F ソ O
+50 タ P
+51 チ Q
+52 ツ R
+53 テ S
+54 ト T
+55 ナ U
+56 ニ V
+57 ヌ W
+58 ネ X
+59 ノ Y
+5A ハ Z
+61 ム a
+62 メ b
+63 モ c
+64 ヤ d
+65 ユ e
+66 ヨ f
+67 ラ g
+68 リ h
+69 ル i
+6A レ j
+6B ロ k
+6C ワ l
+6D ン m
+6E わ n
+6F ん o
+70 ー p
+71 あ q
+72 い r
+73 う s
+74 え t
+75 お u
+76 か v
+77 き w
+78 く x
+79 け y
+7A こ z
+
+ROM:
+0x02004C0C-0x02005CF7 = Stats for Cards 1-722
+0x00000000 = ATK * 10
+0x00000001 = ATK/DEF + Type
+0x00000002 = Guardian Sign (_# Primary | #_ Secondary)
+0x00000003 = DEF * 10
+0x00000004 = Name Slot
+
+Types: (Number, Type)
+(+0x = 2550≥ATK, +1x = 2560≤ATK, +8x = 2560≤DEF)
+
+00-01 Dragon
+02-03 Spellcaster
+04-05 Zombie
+06-07 Warrior
+08-09 Beast-Warrior
+0A-0B Beast
+0C-0D Winged Beast
+0E-0F Fiend
+10-11 Fairy
+12-13 Insect
+14-15 Dinosaur
+16-17 Reptile
+18-19 Fish
+1A-1B Sea Serpent
+1C-1D Machine
+1E-1F Thunder
+20-21 Aqua
+22-23 Pyro
+24-25 Rock
+26-27 Plant
+28-29 Magic
+2A-2B Trap
+2C-2D Ritual
+2E-2F Equip
+30-3F Invalid
+
+Signs: (Number, Sign)
+1 Mars
+2 Jupiter
+3 Saturn
+4 Uranus
+5 Pluto
+6 Neptune
+7 Mercury
+8 Sun
+9 Moon
+A Venus
+B-F Invalid
