@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "english": [
+    {
+      "name": "Save Title (Pocketstation Yu-Gi-Oh!)", "addr": "0x0004",
+      "value": "50 6F 63 6B 65 74 53 74 61 74 69 6F 6E 20 59 75 2D 47 69 2D 4F 68 21 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "active": true
+    },
+    {
+      "name": "Save Region (BASLUS-01411-YUGIOH)", "addr": "0x2354",
+      "value": "42 41 53 4C 55 53 2D 30 31 34 31 31 2D 59 55 47 49 4F 48",
+      "active": true
+    },
+    {
+      "name": "Main Menu (EXIT/OK)", "addr": "0x657E",
+      "value": "45 58 49 54 DB 4F 4B 0F",
+      "active": true
+    },
+    {
+      "name": "Memo (EXIT/OK)", "addr": "0x6587",
+      "value": "45 58 49 54 00 4F 4B",
+      "active": true
+    },
+    {
+      "name": "(MISS)", "addr": "0x658F",
+      "value": "4D 49 53 53",
+      "active": true
+    },
+    {
+      "name": "Save (NO DATA)", "addr": "0x6594",
+      "value": "4E 4F FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (COPY DATA)", "addr": "0x659C",
+      "value": "43 4F 50 59 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (ODD DATA)", "addr": "0x65A6",
+      "value": "4F 44 44 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Lottery (CARD GET!)", "addr": "0x65AF",
+      "value": "43 41 52 44 FB 47 45 54 0E",
+      "active": true
+    },
+    {
+      "name": "Lottery (ONLY ONCE)", "addr": "0x65B8",
+      "value": "4F 4E 4C 59 FB 4F 4E 43 45",
+      "active": true
+    }
+  ],
+  "european": [
+    {
+      "name": "Save Title (Pocketstation Yu-Gi-Oh!)", "addr": "0x0004",
+      "value": "50 6F 63 6B 65 74 53 74 61 74 69 6F 6E 20 59 75 2D 47 69 2D 4F 68 21 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "active": true
+    },
+    {
+      "name": "Save Region (BASLES-03947-YUGIOH)", "addr": "0x2354",
+      "value": "42 45 53 4C 45 53 2D 30 33 39 34 37 2D 59 55 47 49 4F 48",
+      "active": true
+    },
+    {
+      "name": "Main Menu (EXIT/OK)", "addr": "0x657E",
+      "value": "45 58 49 54 DB 4F 4B 0F",
+      "active": true
+    },
+    {
+      "name": "Memo (EXIT/OK)", "addr": "0x6587",
+      "value": "45 58 49 54 00 4F 4B",
+      "active": true
+    },
+    {
+      "name": "(MISS)", "addr": "0x658F",
+      "value": "4D 49 53 53",
+      "active": true
+    },
+    {
+      "name": "Save (NO DATA)", "addr": "0x6594",
+      "value": "4E 4F FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (COPY DATA)", "addr": "0x659C",
+      "value": "43 4F 50 59 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (ODD DATA)", "addr": "0x65A6",
+      "value": "4F 44 44 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Lottery (CARD GET!)", "addr": "0x65AF",
+      "value": "43 41 52 44 FB 47 45 54 0E",
+      "active": true
+    },
+    {
+      "name": "Lottery (ONLY ONCE)", "addr": "0x65B8",
+      "value": "4F 4E 4C 59 FB 4F 4E 43 45",
+      "active": true
+    }
+  ],
+  "french": [
+    {
+      "name": "Save Title (Pocketstation Yu-Gi-Oh!)", "addr": "0x0004",
+      "value": "50 6F 63 6B 65 74 53 74 61 74 69 6F 6E 20 59 75 2D 47 69 2D 4F 68 21 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "active": true
+    },
+    {
+      "name": "Save Region (BASLES-03948-YUGIOH)", "addr": "0x2354",
+      "value": "42 45 53 4C 45 53 2D 30 33 39 34 38 2D 59 55 47 49 4F 48",
+      "active": true
+    },
+    {
+      "name": "Main Menu (EXIT/OK)", "addr": "0x657E",
+      "value": "45 58 49 54 DB 4F 4B 0F",
+      "active": true
+    },
+    {
+      "name": "Memo (EXIT/OK)", "addr": "0x6587",
+      "value": "45 58 49 54 00 4F 4B",
+      "active": true
+    },
+    {
+      "name": "(MISS)", "addr": "0x658F",
+      "value": "4D 49 53 53",
+      "active": true
+    },
+    {
+      "name": "Save (NO DATA)", "addr": "0x6594",
+      "value": "4E 4F FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (COPY DATA)", "addr": "0x659C",
+      "value": "43 4F 50 59 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (ODD DATA)", "addr": "0x65A6",
+      "value": "4F 44 44 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Lottery (CARD GET!)", "addr": "0x65AF",
+      "value": "43 41 52 44 FB 47 45 54 0E",
+      "active": true
+    },
+    {
+      "name": "Lottery (UN SEUL)", "addr": "0x65B8",
+      "value": "55 4E 20 20 FB 53 45 55 4C",
+      "active": true
+    }
+  ],
+  "german": [
+    {
+      "name": "Save Title (Pocketstation Yu-Gi-Oh!)", "addr": "0x0004",
+      "value": "50 6F 63 6B 65 74 53 74 61 74 69 6F 6E 20 59 75 2D 47 69 2D 4F 68 21 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "active": true
+    },
+    {
+      "name": "Save Region (BASLES-03949-YUGIOH)", "addr": "0x2354",
+      "value": "42 45 53 4C 45 53 2D 30 33 39 34 39 2D 59 55 47 49 4F 48",
+      "active": true
+    },
+    {
+      "name": "Main Menu (EXIT/OK)", "addr": "0x657E",
+      "value": "45 58 49 54 DB 4F 4B 0F",
+      "active": true
+    },
+    {
+      "name": "Memo (EXIT/OK)", "addr": "0x6587",
+      "value": "45 58 49 54 00 4F 4B",
+      "active": true
+    },
+    {
+      "name": "(MISS)", "addr": "0x658F",
+      "value": "4D 49 53 53",
+      "active": true
+    },
+    {
+      "name": "Save (NO DATA)", "addr": "0x6594",
+      "value": "4E 4F FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (COPY DATA)", "addr": "0x659C",
+      "value": "43 4F 50 59 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (ODD DATA)", "addr": "0x65A6",
+      "value": "4F 44 44 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Lottery (CARD GET!)", "addr": "0x65AF",
+      "value": "43 41 52 44 FB 47 45 54 0E",
+      "active": true
+    },
+    {
+      "name": "Lottery (NUR EINS)", "addr": "0x65B8",
+      "value": "4E 55 52 20 FB 45 49 4E 53",
+      "active": true
+    }
+  ],
+  "italian": [
+    {
+      "name": "Save Title (Pocketstation Yu-Gi-Oh!)", "addr": "0x0004",
+      "value": "50 6F 63 6B 65 74 53 74 61 74 69 6F 6E 20 59 75 2D 47 69 2D 4F 68 21 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "active": true
+    },
+    {
+      "name": "Save Region (BASLES-03950-YUGIOH)", "addr": "0x2354",
+      "value": "42 45 53 4C 45 53 2D 30 33 39 35 30 2D 59 55 47 49 4F 48",
+      "active": true
+    },
+    {
+      "name": "Main Menu (EXIT/OK)", "addr": "0x657E",
+      "value": "45 58 49 54 DB 4F 4B 0F",
+      "active": true
+    },
+    {
+      "name": "Memo (EXIT/OK)", "addr": "0x6587",
+      "value": "45 58 49 54 00 4F 4B",
+      "active": true
+    },
+    {
+      "name": "(MISS)", "addr": "0x658F",
+      "value": "4D 49 53 53",
+      "active": true
+    },
+    {
+      "name": "Save (NO DATA)", "addr": "0x6594",
+      "value": "4E 4F FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (COPY DATA)", "addr": "0x659C",
+      "value": "43 4F 50 59 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (ODD DATA)", "addr": "0x65A6",
+      "value": "4F 44 44 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Lottery (CARD GET!)", "addr": "0x65AF",
+      "value": "43 41 52 44 FB 47 45 54 0E",
+      "active": true
+    },
+    {
+      "name": "Lottery (SOLO UNO)", "addr": "0x65B8",
+      "value": "53 4F 4C 4F FB 55 4E 4F 00",
+      "active": true
+    }
+  ],
+  "spanish": [
+    {
+      "name": "Save Title (Pocketstation Yu-Gi-Oh!)", "addr": "0x0004",
+      "value": "50 6F 63 6B 65 74 53 74 61 74 69 6F 6E 20 59 75 2D 47 69 2D 4F 68 21 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+      "active": true
+    },
+    {
+      "name": "Save Region (BASLES-03951-YUGIOH)", "addr": "0x2354",
+      "value": "42 45 53 4C 45 53 2D 30 33 39 35 31 2D 59 55 47 49 4F 48",
+      "active": true
+    },
+    {
+      "name": "Main Menu (EXIT/OK)", "addr": "0x657E",
+      "value": "45 58 49 54 DB 4F 4B 0F",
+      "active": true
+    },
+    {
+      "name": "Memo (EXIT/OK)", "addr": "0x6587",
+      "value": "45 58 49 54 00 4F 4B",
+      "active": true
+    },
+    {
+      "name": "(MISS)", "addr": "0x658F",
+      "value": "4D 49 53 53",
+      "active": true
+    },
+    {
+      "name": "Save (NO DATA)", "addr": "0x6594",
+      "value": "4E 4F FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (COPY DATA)", "addr": "0x659C",
+      "value": "43 4F 50 59 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Save (ODD DATA)", "addr": "0x65A6",
+      "value": "4F 44 44 FB 44 41 54 41",
+      "active": true
+    },
+    {
+      "name": "Lottery (CARD GET!)", "addr": "0x65AF",
+      "value": "43 41 52 44 FB 47 45 54 0E",
+      "active": true
+    },
+    {
+      "name": "Lottery (SOLO UNO)", "addr": "0x65B8",
+      "value": "53 4F 4C 4F FB 55 4E 4F 00",
+      "active": true
+    }
+  ]
+}

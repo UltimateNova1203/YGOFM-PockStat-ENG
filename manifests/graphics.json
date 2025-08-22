@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "name": "launcher", "addr": "0x0280",
+      "width": 32, "height": 32, "kind": "sequence", "count": 8, "step": "0x80",
+      "active": true
+    },
+    {
+      "name": "alphabet", "addr": "0x5CF8",
+      "width": 8, "height": 8, "kind": "sequence", "count": 150, "step": "0x8",
+      "active": true
+    },
+    {
+      "name": "konami", "addr": "0x61A8",
+      "width": 32, "height": 32, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "menu-main-1-memo", "addr": "0x6228",
+      "width": 32, "height": 8, "kind": "bitmap",
+      "active": true
+    },
+    {
+      "name": "menu-main-2-comm", "addr": "0x6248",
+      "width": 32, "height": 8, "kind": "bitmap",
+      "active": true
+    },
+    {
+      "name": "menu-main-3-deck", "addr": "0x6268",
+      "width": 32, "height": 8, "kind": "bitmap",
+      "active": true
+    },
+    {
+      "name": "menu-main-4-bag", "addr": "0x6288",
+      "width": 32, "height": 8, "kind": "bitmap",
+      "active": true
+    },
+    {
+      "name": "menu-comm-1-receive", "addr": "0x62A8",
+      "width": 32, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "menu-comm-2-send", "addr": "0x62C8",
+      "width": 32, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "menu-comm-3-mystery", "addr": "0x62E8",
+      "width": 32, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "menu-comm-4-exit", "addr": "0x6308",
+      "width": 32, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "good_luck", "addr": "0x635C",
+      "width": 32, "height": 11, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "mail", "addr": "0x6388",
+      "width": 32, "height": 16, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "title", "addr": "0x63C8",
+      "width": 32, "height": 16, "kind": "bitmap",
+      "active": true
+    },
+    {
+      "name": "title-push", "addr": "0x6408",
+      "width": 32, "height": 5, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "title-start", "addr": "0x641C",
+      "width": 32, "height": 5, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "values", "addr": "0x6430",
+      "width": 8, "height": 12, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-dragon", "addr": "0x643C",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-spellcaster", "addr": "0x6444",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-zombie", "addr": "0x644C",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-warrior", "addr": "0x6454",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-beast-warrior", "addr": "0x645C",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-beast", "addr": "0x6464",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-winged-beast", "addr": "0x646C",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-fiend", "addr": "0x6474",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-fairy", "addr": "0x647C",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-insect", "addr": "0x6484",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-dinosaur", "addr": "0x648C",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-reptile", "addr": "0x6494",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-fish", "addr": "0x649C",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-sea-serpent", "addr": "0x64A4",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-machine", "addr": "0x64AC",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-thunder", "addr": "0x64B4",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-aqua", "addr": "0x64BC",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-pyro", "addr": "0x64C4",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-rock", "addr": "0x64CC",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-plant", "addr": "0x64D4",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-magic", "addr": "0x64DC",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-trap", "addr": "0x64E4",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-ritual", "addr": "0x64EC",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "type-equip", "addr": "0x64F4",
+      "width": 8, "height": 8, "kind": "bitmap",
+      "active": false
+    },
+    {
+      "name": "menu-deck-buttons", "addr": "0x654C",
+      "width": 32, "height": 6, "kind": "bitmap",
+      "active": false
+    }
+  ]
+}
