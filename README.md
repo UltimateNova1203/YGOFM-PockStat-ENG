@@ -2,14 +2,14 @@
 
 After watching one too many Jon_Oh videos of Forbidden Memories, I got intrigued to find out if there was an english translation patch for the PocketStation app, which of course there was none. Since there are quite a few cards locked behind the PocketStation, it would be nice if it was translated so one can more easily navigate the app. I took it upon myself to figure out the apps inner workings, just enough to shove a list of 722 card names into it and hopefully get it to display.
 
-| Region      | Progress                          | Completed  |
-|-------------|-----------------------------------|------------|
-| NTSC-U/C    |![](https://geps.dev/progress/100) | Everything |
-| PAL-English |![](https://geps.dev/progress/50)  | Graphics   |
-| PAL-French  |![](https://geps.dev/progress/10)  | Region     |
-| PAL-German  |![](https://geps.dev/progress/10)  | Region     |
-| PAL-Italian |![](https://geps.dev/progress/10)  | Region     |
-| PAL-Spanish |![](https://geps.dev/progress/10)  | Region     |
+| Region      | Progress                          | Completed         |
+|-------------|-----------------------------------|-------------------|
+| NTSC-U/C    |![](https://geps.dev/progress/100) | Everything        |
+| PAL-English |![](https://geps.dev/progress/50)  | Graphics + Region |
+| PAL-French  |![](https://geps.dev/progress/10)  | Region            |
+| PAL-German  |![](https://geps.dev/progress/10)  | Region            |
+| PAL-Italian |![](https://geps.dev/progress/10)  | Region            |
+| PAL-Spanish |![](https://geps.dev/progress/10)  | Region            |
 
 ## Save Size
 
