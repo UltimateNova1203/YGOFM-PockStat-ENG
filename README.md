@@ -11,6 +11,13 @@ After watching one too many Jon_Oh videos of Forbidden Memories, I got intrigued
 | PAL-Italian |![](https://geps.dev/progress/10)  | Region            |
 | PAL-Spanish |![](https://geps.dev/progress/10)  | Region            |
 
+## Screenshots
+
+![PocketStation Launcher Image](https://github.com/UltimateNova1203/YGOFM-PockStat-ENG/blob/main/screenshots/launcher.gif)
+![Title Screen](https://github.com/UltimateNova1203/YGOFM-PockStat-ENG/blob/main/screenshots/title.gif)
+![Main Menu](https://github.com/UltimateNova1203/YGOFM-PockStat-ENG/blob/main/screenshots/menu.gif)
+![Bag View](https://github.com/UltimateNova1203/YGOFM-PockStat-ENG/blob/main/screenshots/bag.gif)
+
 ## Save Size
 
 The original app's size was 4 Blocks. Due to the length of the translated card names, the new app size is now 6 Blocks.
@@ -38,10 +45,3 @@ This patch has tools that rely on Python v3.x, the Windows BAT files are unteste
   f. PAL-Spanish: `BASLESP03951-YUGIOH.gme`
 5. Import the save into your memory card.
 6. Enjoy the the translated app, or give the Card Lottery a try with the code `Right Right Left Right Left Left Right Left Start` while hovering the `Bag` menu entry.
-
-## Screenshots
-
-![PocketStation Launcher Image](https://github.com/UltimateNova1203/YGOFM-PockStat-ENG/blob/main/screenshots/launcher.gif)
-![Title Screen](https://github.com/UltimateNova1203/YGOFM-PockStat-ENG/blob/main/screenshots/title.gif)
-![Main Menu](https://github.com/UltimateNova1203/YGOFM-PockStat-ENG/blob/main/screenshots/menu.gif)
-![Bag View](https://github.com/UltimateNova1203/YGOFM-PockStat-ENG/blob/main/screenshots/bag.gif)
